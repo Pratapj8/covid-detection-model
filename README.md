@@ -16,5 +16,5 @@ This project classifies images of chest X-rays into three categories: Covid, Nor
 - Data source - https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset?select=Covid19-dataset
 
 
-![ Screenshot](./Screenshot 2025-04-27 at 4.52.17 PM.png)
-![ Screenshot](./Screenshot 2025-04-27 at 4.52.31 PM.png)
+![Explain Image 1](./explain.png)
+![Explain Image 2](./explain_1.png)
