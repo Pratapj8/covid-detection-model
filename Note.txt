@@ -1,0 +1,35 @@
+# !pip install tensorflow
+
+# Project Structure 
+.
+├── app.py               # Main script to run the whole project
+├── utils.py             # Utility functions for data loading, model, and plotting
+├── callbacks.py         # Define training callbacks
+├── model.py             # (Optional) Define the model architecture separately
+├── predict.py           # Script to predict on new images
+├── config.py            # Configuration file with paths, batch sizes, etc.
+├── requirements.txt     # List of dependencies
+├── README.md            # Documentation for the project
+├── logs/                # Folder to store logs and checkpoints
+├── final_model.h5       # Saved final model
+└── best_model.h5        # Saved best model during training
+
+Or 
+
+project_folder/
+├── train/
+│   ├── Covid/
+│   ├── Normal/
+│   └── Viral Pneumonia/
+├── test/
+│   ├── Covid/
+│   ├── Normal/
+│   └── Viral Pneumonia/
+├── app.py
+├── utils.py
+├── callbacks.py
+├── config.py
+├── requirements.txt
+└── README.md
+
+
