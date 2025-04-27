@@ -14,3 +14,6 @@ This project classifies images of chest X-rays into three categories: Covid, Nor
 3. Run `predict.py` for making predictions on new images.
 
 - Data source - https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset?select=Covid19-dataset
+
+
+#![ Screenshot](./Screenshot_2025-04-22_at_1.51.40_PM.png)
